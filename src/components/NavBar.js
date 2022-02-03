@@ -7,8 +7,8 @@ class NavBar extends Component {
             <div className="nav-bar">
                 <nav class="navbar is-link is-fixed-top">
                     <div class="navbar-brand">
-                        <div>
-                            <div class="navbar-item">Hello Brand</div>
+                        <div class="brand-name">
+                            <div class="michael-chen">Michael Chen</div>
                         </div>
                         <div class="navbar-burger burger" data-target="navbarExampleTransparentExample">
                             <span></span>
