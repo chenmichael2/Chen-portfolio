@@ -37,7 +37,7 @@ html, body {
 .main-header{
   color: black;
   font-size: 20px;
-  
+  align-self: center;
 }
 
 .main-photo {
