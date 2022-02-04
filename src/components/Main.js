@@ -4,10 +4,10 @@ class Main extends Component {
     render() {
         return (
             <section className="main-start-section hero is-fullheight is-fullheight-with-navbar">
-                <div className="introduction-me">
+                {/* <div className="introduction-me"> */}
                     <h1 className="main-header">Michael Chen</h1>
-                    <img src='intro-michael.png' alt="Michael Chen"/>
-                </div>
+                    <img className="main-photo" src='grad-photo.png' alt="Michael Chen" />
+                {/* </div> */}
             </section>
         )
     }
