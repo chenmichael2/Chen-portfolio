@@ -15,17 +15,26 @@ html, body {
   pointer-events: none;
 }
 
+.portfolio-section {
+  margin-top: 52px;
+}
+
 .main-start-section {
   border: 2px solid black;
-  display: block;
+  display: flex;
   height: 100%;
   width: auto;
+  justify-content: flex-start;
+}
+
+.introduction-me {
+  
 }
 
 .main-header{
   color: black;
-  margin-top: 52px;
   font-size: 20px;
+  
 }
 
 .about-start-section {
