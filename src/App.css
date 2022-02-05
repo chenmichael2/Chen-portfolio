@@ -24,14 +24,18 @@ html, body {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
-  height: 100%;
+  height: 150%;
   width: auto;
   justify-content: space-evenly;
 }
 
-/* .introduction-me {
-  
-} */
+.main-photo {
+  display: fixed;
+  height: 100%;
+  padding-left: 15vw;
+  width: auto;
+  align-self: flex-end;
+}
 
 .main-header{
   color: black;
