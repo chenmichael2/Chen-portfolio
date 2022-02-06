@@ -66,8 +66,8 @@ html, body {
   width: 200px;
   padding: 0;
   line-height: 8rem;
-  font-family: "Anton", sans-serif;
-  color: black;
+  font-family: "Yellowtail", sans-serif;
+  color: rgb(0, 0, 0, 0.9);
 }
 
 .main-header{
@@ -76,7 +76,7 @@ html, body {
 
 .main-header-last {
   font-size: 90px;
-  padding-left: 12rem;
+  padding-left: 11rem;
 }
 
 .main-text-container {
