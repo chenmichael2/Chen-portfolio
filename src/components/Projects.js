@@ -3,9 +3,9 @@ import React, { Component } from 'react';
 class Projects extends Component {
     render() {
         return(
-            <div className="projects-start-section">
+            <section className="projects-start-section is-fullheight hero">
                 <h1 className="projects-header">Hello Projects Section</h1>
-            </div>
+            </section>
         )
     }
 }
