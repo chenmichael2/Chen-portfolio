@@ -27,7 +27,7 @@ class NavBar extends Component {
                                 </span>
                                 <span>About</span>
                             </a>
-                            <a class="navbar-item" href="#services">
+                            <a class="navbar-item" href="#projects">
                                 <span class="icon">
                                     <i class="fas fa-bars"></i>
                                 </span>
