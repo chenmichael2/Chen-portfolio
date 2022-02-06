@@ -11,7 +11,7 @@ class Main extends Component {
                             <h1 className="main-header">Michael</h1>
                             <h1 className="main-header-last">Chen</h1>
                         </div>
-                        <p className="main-paragraph">Hi! I'm Michael Chen and I'm a recent software engineer graduate from General Assembly.</p>
+                        <p className="main-paragraph">Hi! I'm Michael Chen and I'm a recent software engineer graduate from General Assembly and looking to make a greater change in this world.</p>
                         <a className="button continue-more" href="#about">Continue for More!</a>
                     </div>
                 </div>

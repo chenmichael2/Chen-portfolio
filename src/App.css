@@ -22,7 +22,7 @@ html, body {
   align-self: center;
   font-size: 25px;
   color: white;
-  margin-left: 1rem;
+  margin-left: 2rem;
 }
 
 .portfolio-section {
@@ -74,6 +74,7 @@ html, body {
 .main-name {
   width: 200px;
   padding: 0;
+  margin-left: 2rem;
   line-height: 6rem;
   font-family: "Yellowtail", sans-serif;
   color: rgb(0, 0, 0, 0.9);
@@ -91,11 +92,11 @@ html, body {
 .main-text-container {
   display: flex;
   position: absolute;
+  min-width: 30rem;
   height: 100%;
   width: 100%;
   align-self: center;
   align-items: center;
-  margin-top: 5rem;
 }
 
 .main-text-section {
@@ -110,6 +111,7 @@ html, body {
   max-width: 30rem;
   margin: 20px;
   font-size: 25px;
+  min-width: 25rem;
 }
 
 .about-start-section {
