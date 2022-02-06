@@ -16,6 +16,15 @@ html, body {
   pointer-events: none;
 }
 
+.brand-name {
+  font-family: "Yellowtail", sans-serif;
+  text-align: center;
+  align-self: center;
+  font-size: 25px;
+  color: white;
+  margin-left: 1rem;
+}
+
 .portfolio-section {
   margin-top: 52px;
 }
@@ -65,7 +74,7 @@ html, body {
 .main-name {
   width: 200px;
   padding: 0;
-  line-height: 8rem;
+  line-height: 6rem;
   font-family: "Yellowtail", sans-serif;
   color: rgb(0, 0, 0, 0.9);
 }
