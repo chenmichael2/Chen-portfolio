@@ -10,6 +10,7 @@ class About extends Component {
                 <h1 className="about-header">About</h1>
                 <h2 className="about-title">Who Am I?</h2>
                 <div className="about-paragraph">This is the paragraph where I talk more about myself</div>
+                <img src="About-photo.png" alt='About me photo' />
 
             </section>
         )
