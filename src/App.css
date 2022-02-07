@@ -121,7 +121,11 @@ section {
 /* ====================================================================== */
 .about-start-section {
   padding-top: 52px;
-  display: block;
+  padding-bottom: 52px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  background-color: #61dafb;
   height: 100%;
   min-height: 100%;
   width: auto;
@@ -131,6 +135,12 @@ section {
 .about-header {
   color: black;
   font-size: 20px;
+  font-family: "Yellowtail", sans-serif;
+}
+
+.about-photo {
+  height: 100%;
+  width: auto;
 }
 
 .projects-start-section{
