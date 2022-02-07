@@ -125,17 +125,35 @@ section {
   display: flex;
   flex-direction: row;
   justify-content: space-around;
-  background-color: #61dafb;
+  /* background-image: url('../public/hawaii-hike-scene.jpg'); */
+  background-size: cover;
+  background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('../public/hawaii-hike-scene.jpg');
+  -webkit-background-size: cover;
+  -moz-background-size:  cover;
+  -o-background-size: cover;
+  background-color: rgb(0, 0, 0, 0.5);
   height: 100%;
   min-height: 100%;
   width: auto;
   border: 2px solid black;
 }
 
+.about-text-container {
+  text-align: left;
+}
+
 .about-header {
   color: black;
   font-size: 20px;
   font-family: "Yellowtail", sans-serif;
+}
+
+.about-title {
+
+}
+
+.about-paragraph {
+
 }
 
 .about-photo {
