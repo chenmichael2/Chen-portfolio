@@ -178,6 +178,8 @@ section {
 
 .button-container {
   padding: 10px;
+  display: flex;
+  justify-content: space-around;
 }
 .about-button {
   transition-duration: 0.4s;
@@ -185,7 +187,8 @@ section {
   color: rgb(255, 255, 255);
   border: 2px solid rgb(108, 169, 248);
   margin-top: 3rem;
-  margin-left: 1rem;
+  /* margin-left: 2rem;
+  margin-right: 2rem; */
   text-align: center;
 }
 
@@ -203,7 +206,7 @@ section {
   width: auto;
   border: 2px solid black;
   background-size: cover;
-  background: linear-gradient( rgba(0, 0, 0, 0.904), rgba(0, 0, 0, 0.74) ), url('../public/hawaii-market.jpg');
+  background: linear-gradient( rgba(201, 201, 201, 0.904), rgba(212, 212, 212, 0.74) ), url('../public/hawaii-market.jpg');
   -webkit-background-size: cover;
   -moz-background-size:  cover;
   -o-background-size: cover;
