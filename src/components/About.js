@@ -19,7 +19,12 @@ class About extends Component {
                         <br />
                         <div>I am a consistent music listener and love nature. I hope to slowly make an impact in everyone's lives. I love spending time with people and playing guitar whenever I can!</div>
                     </div>
+                    <div className="button-container">
+                        <a className="button about-button" href="#resume">Go to Resume</a>
+                        <a className="button about-button" href="#contact">Contact Me!</a>
+                    </div>
                 </div>
+
             </section>
         )
     }

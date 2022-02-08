@@ -170,12 +170,31 @@ section {
 }
 
 .about-paragraph {
-  font-size: 20px;
+  font-size: 25px;
   color: white;
   font-family: 'PT Sans Narrow', sans-serif;
   padding: 5px;
 }
 
+.button-container {
+  padding: 10px;
+}
+.about-button {
+  transition-duration: 0.4s;
+  background-color: rgb(0, 0, 0, 0.1);
+  color: rgb(255, 255, 255);
+  border: 2px solid rgb(108, 169, 248);
+  margin-top: 3rem;
+  margin-left: 1rem;
+  text-align: center;
+}
+
+.about-button:hover {
+  background-color: rgb(108, 169, 248);
+  color: white;
+}
+
+/* =============================================================== */
 .projects-start-section{
   padding-top: 52px;
   display: block;
