@@ -146,6 +146,7 @@ section {
 .about-text-container {
   text-align: left;
   padding-left: 10px;
+  max-width: 800px;
 }
 
 .about-header {

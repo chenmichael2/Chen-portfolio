@@ -7,7 +7,7 @@ class About extends Component {
     render() {
         return (
             <section className="about-start-section is-fullheight hero" id="about">
-                <div class="circular--landscape">
+                <div class="about-image">
                     <img className="about-photo" src="About-photo.png" alt='About me photo' />
                 </div>
                 <div className="about-text-container">
