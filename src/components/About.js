@@ -14,7 +14,11 @@ class About extends Component {
                     <h1 className="about-header">About</h1>
                     <h2 className="about-title">Who Am I?</h2>
                     <div className="about-introline">My name is Michael Chen and I’m a young, inspired software engineer who graduated from General Assembly.</div>
-                    <div className="about-paragraph">Hello more words to say</div>
+                    <div className="about-paragraph">
+                        <div>I am a graduate of the University of California, Irvine with a B.S. in Biology. In my first year at UCI, I worked at PRN Ambulance as an EMT as well as enlisted into the Marine Corps as a Reservist.</div>
+                        <br />
+                        <div>I am a consistent music listener and love nature. I hope to slowly make an impact in everyone's lives. I love spending time with people and playing guitar whenever I can!</div>
+                    </div>
                 </div>
             </section>
         )
