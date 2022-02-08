@@ -220,6 +220,8 @@ section {
   font-size: 30px;
   font-family: "Permanent marker", sans-serif;
   margin-bottom: 20px;
+  text-align: left;
+  padding-left: 60px;
 }
 
 .projects-container {

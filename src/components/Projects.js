@@ -10,9 +10,11 @@ class Projects extends Component {
                         <div class="column is-4">
                             <div class="card is-shady">
                                 <div class="card-image">
-                                    <figure class="image is-4by3">
-                                        <img src="https://source.unsplash.com/RWnpyGtY1aU" alt="Placeholder image" class="modal-button" data-target="modal-image2" />
-                                    </figure>
+                                    <a href="#projects">
+                                        <figure class="image is-4by3">
+                                            <img src="https://source.unsplash.com/RWnpyGtY1aU" alt="Placeholder image" class="modal-button" data-target="modal-image2" />
+                                        </figure>
+                                    </a>
                                 </div>
                                 <div class="card-content">
                                     <div class="content">
@@ -26,9 +28,11 @@ class Projects extends Component {
                         <div class="column is-4">
                             <div class="card is-shady">
                                 <div class="card-image">
-                                    <figure class="image is-4by3">
-                                        <img src="https://source.unsplash.com/6Ticnhs1AG0" alt="Placeholder image"/>
-                                    </figure>
+                                    <a href="#projects">
+                                        <figure class="image is-4by3">
+                                            <img src="https://source.unsplash.com/6Ticnhs1AG0" alt="Placeholder image" />
+                                        </figure>
+                                    </a>
                                 </div>
                                 <div class="card-content">
                                     <div class="content">
@@ -43,9 +47,11 @@ class Projects extends Component {
                         <div class="column is-4 modal-button" data-target="modal-image">
                             <div class="card is-shady">
                                 <div class="card-image">
-                                    <figure class="image is-4by3">
-                                        <img src="https://res.cloudinary.com/ameo/image/upload/v1568711475/pexels-photo-1302883_fjje0f.jpg" alt="Placeholder image" />
-                                    </figure>
+                                    <a href="#projects">
+                                        <figure class="image is-4by3">
+                                            <img src="https://res.cloudinary.com/ameo/image/upload/v1568711475/pexels-photo-1302883_fjje0f.jpg" alt="Placeholder image" />
+                                        </figure>
+                                    </a>
                                 </div>
                                 <div class="card-content">
                                     <div class="content">
