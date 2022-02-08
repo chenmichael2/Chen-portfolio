@@ -12,7 +12,7 @@ class Projects extends Component {
                                 <div class="card-image">
                                     <a href="#projects">
                                         <figure class="image is-4by3">
-                                            <img src="https://source.unsplash.com/RWnpyGtY1aU" alt="Placeholder image" class="modal-button" data-target="modal-image2" />
+                                            <img src="spaceship_racer.png" alt="Spaceship Racer Image" class="modal-button" data-target="modal-image2" />
                                         </figure>
                                     </a>
                                 </div>
@@ -30,7 +30,7 @@ class Projects extends Component {
                                 <div class="card-image">
                                     <a href="#projects">
                                         <figure class="image is-4by3">
-                                            <img src="https://source.unsplash.com/6Ticnhs1AG0" alt="Placeholder image" />
+                                            <img src="viral.png" alt="Viral Project Image" />
                                         </figure>
                                     </a>
                                 </div>
@@ -49,7 +49,7 @@ class Projects extends Component {
                                 <div class="card-image">
                                     <a href="#projects">
                                         <figure class="image is-4by3">
-                                            <img src="https://res.cloudinary.com/ameo/image/upload/v1568711475/pexels-photo-1302883_fjje0f.jpg" alt="Placeholder image" />
+                                            <img src="organize.png" alt="Organize Project Image" />
                                         </figure>
                                     </a>
                                 </div>

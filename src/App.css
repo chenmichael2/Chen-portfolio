@@ -215,6 +215,11 @@ section {
   -o-background-size: cover;
 }
 
+figure img {
+  object-fit: cover;
+  border: white 5px solid;
+}
+
 .projects-header {
   color: rgb(39, 74, 126);
   font-size: 30px;
