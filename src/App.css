@@ -154,7 +154,7 @@ section {
 
 .about-header {
   color: rgb(168, 200, 247);
-  font-size: 20px;
+  font-size: 30px;
   font-family: "Permanent marker", sans-serif;
 }
 
@@ -204,6 +204,7 @@ section {
 /* =============================================================== */
 .projects-start-section{
   padding-top: 52px;
+  padding-bottom: 52px;
   display: block;
   height: 100%;
   min-height: 100%;
@@ -219,7 +220,7 @@ section {
 
 .projects-header {
   color: rgb(39, 74, 126);
-  font-size: 20px;
+  font-size: 30px;
   font-family: "Permanent marker", sans-serif;
   margin-bottom: 20px;
 }
