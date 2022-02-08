@@ -4,6 +4,7 @@ class Projects extends Component {
     render() {
         return (
             <section className="projects-start-section is-fullheight hero" id="projects">
+                <div className="projects-header">Projects</div>
                 <div className="projects-container">
                     <div class="columns features">
                         <div class="column is-4">

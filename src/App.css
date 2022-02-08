@@ -216,6 +216,11 @@ section {
 .projects-header {
   color: black;
   font-size: 20px;
+  margin-bottom: 20px;
+}
+
+.projects-container {
+  margin: 0 20px 0 20px;
 }
 
 .resume-start-section{
