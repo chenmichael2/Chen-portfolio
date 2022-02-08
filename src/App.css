@@ -202,6 +202,11 @@ section {
   min-height: 100%;
   width: auto;
   border: 2px solid black;
+  background-size: cover;
+  background: url('../public/hawaii-market.jpg');
+  -webkit-background-size: cover;
+  -moz-background-size:  cover;
+  -o-background-size: cover;
 }
 
 .projects-header {
