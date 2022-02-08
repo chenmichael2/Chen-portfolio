@@ -203,7 +203,7 @@ section {
   width: auto;
   border: 2px solid black;
   background-size: cover;
-  background: url('../public/hawaii-market.jpg');
+  background: linear-gradient( rgba(0, 0, 0, 0.904), rgba(0, 0, 0, 0.74) ), url('../public/hawaii-market.jpg');
   -webkit-background-size: cover;
   -moz-background-size:  cover;
   -o-background-size: cover;
