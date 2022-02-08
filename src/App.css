@@ -123,19 +123,24 @@ section {
   padding-top: 52px;
   padding-bottom: 52px;
   display: flex;
+  flex-wrap: wrap-reverse;
   flex-direction: row;
-  justify-content: space-around;
-  /* background-image: url('../public/hawaii-hike-scene.jpg'); */
+  justify-content: space-evenly;
   background-size: cover;
-  background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('../public/hawaii-hike-scene.jpg');
+  background: linear-gradient( rgba(0, 0, 0, 0.904), rgba(0, 0, 0, 0.74) ), url('../public/hawaii-hike-scene.jpg');
   -webkit-background-size: cover;
   -moz-background-size:  cover;
   -o-background-size: cover;
-  background-color: rgb(0, 0, 0, 0.5);
   height: 100%;
   min-height: 100%;
   width: auto;
   border: 2px solid black;
+}
+
+.about-photo {
+  height: 100%;
+  width: auto;
+  min-width: 408px;
 }
 
 .about-text-container {
@@ -143,22 +148,20 @@ section {
 }
 
 .about-header {
-  color: black;
+  color: rgb(168, 200, 247);
   font-size: 20px;
-  font-family: "Yellowtail", sans-serif;
+  font-family: "Permanent marker", sans-serif;
 }
 
 .about-title {
-
+  font-size: 52px;
+  color: rgb(199, 208, 250);
+  font-family: "Neonderthaw", sans-serif;
 }
 
 .about-paragraph {
-
-}
-
-.about-photo {
-  height: 100%;
-  width: auto;
+  color: white;
+  font-family: 'Josefin', sans-serif;
 }
 
 .projects-start-section{
