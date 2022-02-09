@@ -62,7 +62,7 @@ class Projects extends Component {
                                     <h4>Organize</h4>
                                     <p className="card-paragraph">This app provides a simple to-do list made with React and MongoDB. Also provides authentication to tailor the list to specific users.</p>
                                     <div className="project-button-container">
-                                        <a className="button is-link modal-button"><i class="fab fa-github need-space"></i>Front</a>
+                                        <a className="button is-link modal-button" href=""><i class="fab fa-github need-space"></i>Front</a>
                                         <a className="button is-link modal-button"><i class="fab fa-github need-space"></i>Back</a>
                                     </div>
                                 </div>
