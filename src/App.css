@@ -254,6 +254,15 @@ figure img {
   height: 100%;
 }
 
+.project-button-container {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.need-space {
+  margin-right: 5px;
+}
+/* ==================================================== */
 .resume-start-section{
   padding-top: 52px;
   display: block;
