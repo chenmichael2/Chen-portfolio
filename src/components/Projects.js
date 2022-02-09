@@ -20,7 +20,7 @@ class Projects extends Component {
                                     <div className="content">
                                         <h4>Spaceship Racer</h4>
                                         <p className="card-paragraph">A two player game where each player controls a spaceship. First one to reach the other side five times wins with multiple difficulties that can be selected. HTML, CSS, Javascript.</p>
-                                        <span className="button is-link modal-button" data-target="modal-image2">Image modal</span>
+                                        <a className="button is-link modal-button" href="https://github.com/chenmichael2/Spaceship-Racer"><i class="fab fa-github"></i></a>
                                     </div>
                                 </div>
                             </div>
