@@ -6,7 +6,7 @@ class Projects extends Component {
             <section className="projects-start-section is-fullheight hero" id="projects">
                 <div className="projects-header">Projects</div>
                 <div className="projects-container">
-                    <div className="columns features">
+                    {/* <div className="columns features"> */}
                         <div className="column is-4">
                             <div className="card is-shady">
                                 <div className="card-image">
@@ -62,7 +62,7 @@ class Projects extends Component {
                             </div>
                         </div>
                     </div>
-                </div>
+                {/* </div> */}
             </section>
         )
     }

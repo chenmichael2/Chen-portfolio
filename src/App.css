@@ -239,10 +239,19 @@ figure img {
 
 .projects-container {
   margin: 0 20px 0 20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.is-4 {
+  min-width: 413px;
+  max-width: 554px;
 }
 
 .card-paragraph {
-  height: 96px;
+  min-height: 96px;
+  height: 100%;
 }
 
 .resume-start-section{
@@ -287,6 +296,9 @@ figure img {
   to {
     transform: rotate(360deg);
   }
+}
+@media (max-width: 1300px) {
+
 }
 
 @media (max-width: 800px) {
