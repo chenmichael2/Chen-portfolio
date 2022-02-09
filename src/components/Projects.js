@@ -41,7 +41,7 @@ class Projects extends Component {
                                     <h4>Viral</h4>
                                     <p className="card-paragraph">A team project that uses MongoDB, API, and React to provide data on COVID statistics and user input vaccination sites with reviews and voting</p>
                                     <div className="project-button-container">
-                                        <a className="button is-link modal-button" href=""><i class="fab fa-github need-space"></i>Front</a>
+                                        <a className="button is-link modal-button" href="https://github.com/cspdevs000/viral-app"><i class="fab fa-github need-space"></i>Front</a>
                                         <a className="button is-link modal-button"><i class="fab fa-github need-space"></i>Back</a>
                                     </div>
                                 </div>
