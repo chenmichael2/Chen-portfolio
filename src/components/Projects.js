@@ -18,7 +18,7 @@ class Projects extends Component {
                                 </div>
                                 <div class="card-content">
                                     <div class="content">
-                                        <h4>Click on image above</h4>
+                                        <h4>Spaceship Racer</h4>
                                         <p>Purus semper eget duis at tellus at urna condimentum mattis. Non blandit massa enim nec. Integer enim neque volutpat ac tincidunt vitae semper quis. Accumsan tortor posuere ac ut consequat semper viverra nam.</p>
                                         <span class="button is-link modal-button" data-target="modal-image2">Image modal</span>
                                     </div>

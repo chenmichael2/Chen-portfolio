@@ -134,6 +134,7 @@ section {
   min-height: 100%;
   width: auto;
   border: 2px solid black;
+  align-content: center;
 }
 
 .about-photo {
@@ -141,6 +142,9 @@ section {
   width: auto;
   min-width: 430px;
   flex-shrink: 0;
+  align-items: flex-end;
+
+  order: 0;
 }
 
 .about-text-container {
@@ -149,6 +153,7 @@ section {
   width: 800px;
   flex-shrink: 3;
   min-width: 300px;
+  order: 1;
 }
 
 .about-header {
@@ -278,7 +283,22 @@ figure img {
 }
 
 @media (max-width: 800px) {
+  .about-photo {
+    height: auto;
+    width: 100%;
+    min-width: 0;
+    flex-shrink: 3;
+  }
+
+}
+@media (max-width: 600px) {
   .about-start-section {
     flex-wrap: wrap-reverse;
+  }
+  .about-photo {
+    height: 650px;
+    width: auto;
+    min-width: 430px;
+    flex-shrink: 0;
   }
 }
