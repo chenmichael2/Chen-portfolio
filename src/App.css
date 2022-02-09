@@ -222,8 +222,10 @@ section {
 }
 
 figure img {
-  object-fit: cover;
+  object-fit: fill;
   border: white 5px solid;
+  height: 356px;
+  width: auto;
 }
 
 .projects-header {
@@ -237,6 +239,10 @@ figure img {
 
 .projects-container {
   margin: 0 20px 0 20px;
+}
+
+.card-paragraph {
+  height: 96px;
 }
 
 .resume-start-section{

@@ -19,7 +19,7 @@ class Projects extends Component {
                                 <div className="card-content">
                                     <div className="content">
                                         <h4>Spaceship Racer</h4>
-                                        <p>Purus semper eget duis at tellus at urna condimentum mattis. Non blandit massa enim nec. Integer enim neque volutpat ac tincidunt vitae semper quis. Accumsan tortor posuere ac ut consequat semper viverra nam.</p>
+                                        <p className="card-paragraph">A two player game where each player controls a spaceship. First one to reach the other side five times wins with multiple difficulties that can be selected. HTML, CSS, Javascript.</p>
                                         <span className="button is-link modal-button" data-target="modal-image2">Image modal</span>
                                     </div>
                                 </div>
@@ -36,9 +36,8 @@ class Projects extends Component {
                                 </div>
                                 <div className="card-content">
                                     <div className="content">
-                                        <h4>Tempor orci dapibus faber in.</h4>
-                                        <p>Ut venenatis tellus in metus vulputate. Amet consectetur adipiscing elit pellentesque. Sed arcu non odio euismod lacinia at quis risus. Faucibus turpis in eu mi bibendum neque egestas cmonsu songue. Phasellus vestibulum lorem
-                                            sed risus.</p>
+                                        <h4>Viral</h4>
+                                        <p className="card-paragraph">A team project that uses MongoDB, API, and React to provide data on COVID statistics and user input vaccination sites with reviews and voting</p>
                                         <span className="button is-link modal-button" data-target="modal-card">Modal Card</span>
                                     </div>
                                 </div>
@@ -55,8 +54,8 @@ class Projects extends Component {
                                 </div>
                                 <div className="card-content">
                                     <div className="content">
-                                        <h4>Click anywhere on card</h4>
-                                        <p>Imperdiet dui accumsan sit amet nulla facilisi morbi. Fusce ut placerat orci nulla pellentesque dignissim enim. Libero id faucibus nisl tincidunt eget nullam. Commodo viverra maecenas accumsan lacus vel facilisis.</p>
+                                        <h4>Organize</h4>
+                                        <p className="card-paragraph">This app provides a simple to-do list made with React and MongoDB. Also provides authentication to tailor the list to specific users.</p>
                                         <span className="button is-link modal-button" data-target="modal-image">Image modal</span>
                                     </div>
                                 </div>
