@@ -10,7 +10,7 @@ class Projects extends Component {
                         <div className="column is-4">
                             <div className="card is-shady">
                                 <div className="card-image">
-                                    <a href="#projects">
+                                    <a href="https://chenmichael2.github.io/Spaceship-Racer/">
                                         <figure className="image is-4by3">
                                             <img src="spaceship_racer.png" alt="Spaceship Racer Image" className="modal-button" data-target="modal-image2" />
                                         </figure>
@@ -28,7 +28,7 @@ class Projects extends Component {
                         <div className="column is-4">
                             <div className="card is-shady">
                                 <div className="card-image">
-                                    <a href="#projects">
+                                    <a href="https://viral-covid.herokuapp.com/">
                                         <figure className="image is-4by3">
                                             <img src="viral.png" alt="Viral Project Image" />
                                         </figure>
@@ -46,7 +46,7 @@ class Projects extends Component {
                         <div className="column is-4 modal-button" data-target="modal-image">
                             <div className="card is-shady">
                                 <div className="card-image">
-                                    <a href="#projects">
+                                    <a href="https://organizeee-app.herokuapp.com/">
                                         <figure className="image is-4by3">
                                             <img src="organize.png" alt="Organize Project Image" />
                                         </figure>
