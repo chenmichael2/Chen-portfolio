@@ -269,6 +269,12 @@ figure img {
   height: 100%;
   min-height: 100%;
   width: auto;
+  background-size: cover;
+  background-position: center;
+  background: linear-gradient( rgba(0, 0, 0, 0.829), rgba(0, 0, 0, 0.747) ), url('../public/second_hawaii_hike.jpg');
+  -webkit-background-size: cover;
+  -moz-background-size:  cover;
+  -o-background-size: cover;
   border: 2px solid black;
 }
 
