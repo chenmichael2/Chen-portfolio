@@ -5,7 +5,7 @@ class Resume extends Component {
         return(
             <section className="resume-start-section is-fullheight hero" id="resume">
                 <h1 className="resume-header">Hello Resume Section</h1>
-                <a className="resume-download" href="Michael Chen Resume.pdf">Hello</a>
+                <a className="resume-download" href="Michael Chen Resume.pdf" target="_blank">Hello</a>
             </section>
         )
     }
