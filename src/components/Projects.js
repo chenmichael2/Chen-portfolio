@@ -30,7 +30,7 @@ class Projects extends Component {
                     <div className="column is-4">
                         <div className="card is-shady">
                             <div className="card-image">
-                                <a href="https://viral-covid.herokuapp.com/">
+                                <a href="https://viral-covid.herokuapp.com/" target="_blank">
                                     <figure className="image is-4by3">
                                         <img src="viral.png" alt="Viral Project Image" />
                                     </figure>
