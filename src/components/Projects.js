@@ -10,7 +10,7 @@ class Projects extends Component {
                     <div className="column is-4">
                         <div className="card is-shady">
                             <div className="card-image">
-                                <a href="https://chenmichael2.github.io/Spaceship-Racer/">
+                                <a href="https://chenmichael2.github.io/Spaceship-Racer/" target="_blank">
                                     <figure className="image is-4by3">
                                         <img src="spaceship_racer.png" alt="Spaceship Racer Image" className="modal-button" data-target="modal-image2" />
                                     </figure>
