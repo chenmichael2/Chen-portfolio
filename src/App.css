@@ -289,12 +289,15 @@ figure img {
 .resume-name {
   font-family: 'Bebas Neue', cursive;
   font-size: 80px;
-  
 }
 
 .resume-bio {
   font-family: "Open Sans", sans-serif;
   font-size: 13px;
+}
+
+.resume-container {
+  display: flex;
 }
 
 .resume-header {
