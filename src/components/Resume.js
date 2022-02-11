@@ -5,8 +5,8 @@ class Resume extends Component {
         return (
             <section className="resume-start-section is-fullheight hero" id="resume">
                 <div className="top-resume-section">
-                    <h1>Michael Chen</h1>
-                    <h2>Software Engineer | Full-Stack Developer | Marine Reservist</h2>
+                    <h1 className="resume-name">Michael Chen</h1>
+                    <h2 className="resume-bio">Software Engineer | Full-Stack Developer | Marine Reservist</h2>
                 </div>
                 <div className="resume-container">
                     <div className="left-resume-section">left</div>
