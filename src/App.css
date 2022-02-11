@@ -264,7 +264,6 @@ figure img {
 }
 /* ==================================================== */
 .resume-start-section{
-  padding-top: 52px;
   display: block;
   height: 100%;
   min-height: 100%;
@@ -278,7 +277,10 @@ figure img {
   border: 2px solid black;
 }
 
-.top-resume-section 
+.top-resume-section {
+  margin-top: 52px;
+  text-align: left;
+}
 
 .resume-header {
   color: black;
