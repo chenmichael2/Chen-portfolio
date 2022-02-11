@@ -277,13 +277,21 @@ figure img {
   border: 2px solid black;
 }
 
-.top-resume-section {
-  margin-top: 52px;
-  padding-top: 20px;
-  text-align: left;
+.top-box-styling {
+  height: 52px;
+  background-color: #179BA5;
   margin-left: 2rem;
+  width: 385px;
+  border-radius: 0 0 10px 10px;
+}
+
+.top-resume-section {
+  margin-top: 20px;
+  text-align: left;
+  margin-left: 3rem;
   line-height: 3rem;
-  
+  display: relative;
+  z-index: 10;
 }
 
 .resume-name {
@@ -298,14 +306,22 @@ figure img {
 
 .resume-container {
   display: flex;
+  position: relative;
+  height: 100%;
+  min-height: 100%;
+  width: 100%;
 }
 
 .left-resume-section {
-
+  background-color: #179BA5;
+  height: 100%;
+  margin-left: 2rem;
+  width: 385px;
+  border-radius: 10px 10px 10px 10px;
 }
 
 .right-resume-section {
-  
+  background: red;
 }
 
 .resume-header {
