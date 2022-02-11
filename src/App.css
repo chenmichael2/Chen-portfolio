@@ -279,13 +279,22 @@ figure img {
 
 .top-resume-section {
   margin-top: 52px;
+  padding-top: 20px;
   text-align: left;
   margin-left: 2rem;
+  line-height: 3rem;
+  
 }
 
 .resume-name {
   font-family: 'Bebas Neue', cursive;
   font-size: 80px;
+  
+}
+
+.resume-bio {
+  font-family: "Open Sans", sans-serif;
+  
 }
 
 .resume-header {
