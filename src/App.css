@@ -283,6 +283,11 @@ figure img {
   margin-left: 2rem;
 }
 
+.resume-name {
+  font-family: "Montserrat", sans-serif;
+  font-size: 53px;
+}
+
 .resume-header {
   color: black;
   font-size: 20px;
