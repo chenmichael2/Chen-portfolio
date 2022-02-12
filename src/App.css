@@ -335,6 +335,9 @@ figure img {
 .personal-profile-paragraph {
   color: white;
   text-align: left;
+  font-family: "Open Sans Condensed", sans-serif;
+  padding: 1rem 2rem 0 2rem;
+  font-size: 20px;
 }
 
 .resume-right {
