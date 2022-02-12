@@ -11,7 +11,9 @@ class Resume extends Component {
                             <h1 className="resume-name">Michael Chen</h1>
                             <h2 className="resume-bio">Software Engineer | Full-Stack Developer | Marine Reservist</h2>
                         </div>
-                        <div className="left-resume-section">left</div>
+                        <div className="left-resume-section">
+                            <h1>Personal Profile</h1>
+                        </div>
                     </div>
                     <div className="resume-right">
                         <div className="right-resume-section">right</div>
