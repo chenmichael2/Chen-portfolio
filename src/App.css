@@ -325,6 +325,11 @@ figure img {
 
 .resume-personal-profile {
   font-family: 'Bebas Neue', cursive;
+  text-align: left;
+  font-size: 20px;
+  color: white;
+  padding-top: 1rem;
+  padding-left: 1rem;
 }
 
 .resume-right {
