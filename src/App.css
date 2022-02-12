@@ -265,15 +265,9 @@ figure img {
 /* ==================================================== */
 .resume-start-section{
   display: block;
-  height: 100%;
   min-height: 100%;
   width: auto;
-  background-size: cover;
-  background-position: center;
   background: white;
-  -webkit-background-size: cover;
-  -moz-background-size:  cover;
-  -o-background-size: cover;
   border: 2px solid black;
 }
 
@@ -306,10 +300,7 @@ figure img {
 .resume-container {
   display: flex;
   flex-wrap: wrap;
-  position: relative;
-  height: 100%;
-  min-height: 100%;
-  width: 100%;
+
 }
 
 .resume-left {
