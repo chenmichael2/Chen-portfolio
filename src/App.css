@@ -323,6 +323,10 @@ figure img {
   border-radius: 10px 10px 10px 10px;
 }
 
+.resume-personal-profile {
+  font-family: 'Bebas Neue', cursive;
+}
+
 .resume-right {
   width: auto;
 }
