@@ -13,7 +13,7 @@ class Resume extends Component {
                         </div>
                         <div className="left-resume-section">
                             <h1 className="resume-personal-profile">Personal Profile</h1>
-                            <p>I am a Software Engineer from General Assembly with a Bachelor’s Degree in Biology and a Marine Corps reservist, with experience as an Emergency Medical Technician. A combination of all my experience provided a strong foundation to be reliable, passionate, and motivated.</p>
+                            <p className="personal-profile-paragraph">I am a Software Engineer from General Assembly with a Bachelor’s Degree in Biology and a Marine Corps reservist, with experience as an Emergency Medical Technician. A combination of all my experience provided a strong foundation to be reliable, passionate, and motivated.</p>
                         </div>
                     </div>
                     <div className="resume-right">
