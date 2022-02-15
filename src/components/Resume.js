@@ -1,6 +1,23 @@
 import React, { Component } from 'react';
 
+const career = [
+    {
+        title: 'General Assembly Software Engineering Immersive',
+        role: 'Engineering Fellow',
+        date: 'Oct 2021-Jan 2022',
+        description: ['Design and learn about coding skills like HTML, CSS, Javascript, and other tools.', 'Work closely with fellow software engineers to create full-stack applications', 'Implement and maneuver data with multiple different types of tools to support application processes.'],
+    },
+    {
+        title: '',
+        role: '',
+        date: '',
+        description: [''],
+    },
+]
+
 class Resume extends Component {
+    
+
     render() {
         return (
             <section className="resume-start-section is-fullheight hero" id="resume">
