@@ -330,6 +330,11 @@ figure img {
   font-size: 20px;
 }
 
+.skills-container {
+  display: flex;
+  color: white;
+}
+
 .resume-right {
   width: auto;
 }
