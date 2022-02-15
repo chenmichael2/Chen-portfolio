@@ -35,10 +35,10 @@ const academic = [
         description: ['Courses taken include general chemistry, organic chemistry, physiology, anatomy, biochemistry, and physics.'],
     },
     {
-        title: '',
-        degree: '',
-        date: '',
-        description: [],
+        title: 'Southern California Regional Occupational Center',
+        degree: 'Certificate of Competency',
+        date: 'Sep 2015 - Jul 2017',
+        description: ['Occupational courses that include emergency medical technician, emergency first responder, intro to pharmacy tech, physical therapy aide, and personal fitness trainer.'],
     },
 ]
 
