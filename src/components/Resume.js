@@ -4,8 +4,14 @@ const career = [
     {
         title: 'General Assembly Software Engineering Immersive',
         role: 'Engineering Fellow',
-        date: 'Oct 2021-Jan 2022',
+        date: 'Oct 2021 - Jan 2022',
         description: ['Design and learn about coding skills like HTML, CSS, Javascript, and other tools.', 'Work closely with fellow software engineers to create full-stack applications', 'Implement and maneuver data with multiple different types of tools to support application processes.'],
+    },
+    {
+        title: 'United States Marine Corps Reserves',
+        role: 'Expeditionary Airfield Technician',
+        date: 'Aug 2018 - present',
+        description: ['Provide and lead maintenance actions on arresting gear, lighting, and airfield operations.', 'Billets assigned include acting non-commissioned officer for foreign object debris, corrosion control prevention, and training and readiness section officer.', 'Personal awards include National Defense Service Medal (2019) and Meritorious Mast (2021).'],
     },
     {
         title: '',
