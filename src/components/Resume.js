@@ -1,4 +1,6 @@
 import React, { Component } from 'react';
+import Career from './Career';
+import Academic from './Academic';
 
 const career = [
     {
