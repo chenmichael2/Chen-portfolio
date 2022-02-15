@@ -29,10 +29,10 @@ const academic = [
         description: ['Topics covered include front-end web development, full-stack development, and front-end framework.'],
     },
     {
-        title: '',
-        degree: '',
-        date: '',
-        description: [],
+        title: 'University of California, Irvine',
+        degree: 'Bachelor of Science in Biological Sciences',
+        date: 'Sep 2017 - Sep 2021',
+        description: ['Courses taken include general chemistry, organic chemistry, physiology, anatomy, biochemistry, and physics.'],
     },
     {
         title: '',
