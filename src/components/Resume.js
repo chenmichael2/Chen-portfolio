@@ -12,8 +12,14 @@ class Resume extends Component {
                             <h2 className="resume-bio">Software Engineer | Full-Stack Developer | Marine Reservist</h2>
                         </div>
                         <div className="left-resume-section">
-                            <h1 className="resume-personal-profile">Personal Profile</h1>
-                            <p className="personal-profile-paragraph">I am a Software Engineer from General Assembly with a Bachelor’s Degree in Biology and a Marine Corps reservist, with experience as an Emergency Medical Technician. A combination of all my experience provided a strong foundation to be reliable, passionate, and motivated.</p>
+                            <div className="personal-profile">
+                                <h1 className="left-heading">Personal Profile</h1>
+                                <p className="personal-profile-paragraph">I am a Software Engineer from General Assembly with a Bachelor’s Degree in Biology and a Marine Corps reservist, with experience as an Emergency Medical Technician. A combination of all my experience provided a strong foundation to be reliable, passionate, and motivated.</p>
+                            </div>
+                            <div className="skills-section">
+                                <h1 className="left-heading">Skills</h1>
+                                <p></p>
+                            </div>
                         </div>
                     </div>
                     <div className="resume-right">
