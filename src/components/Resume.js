@@ -43,7 +43,12 @@ const academic = [
 ]
 
 class Resume extends Component {
-    
+    displayCareer() {
+        const display = career.map((c, idx) => {
+            return <Career />
+        });
+        return display;
+    }
 
     render() {
         return (
