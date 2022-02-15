@@ -333,6 +333,7 @@ figure img {
   display: flex;
   color: white;
   justify-content: space-evenly;
+  align-items: center;
   font-size: 20px;
   font-family: "Open Sans Condensed", sans-serif;
   font-weight: 1000;
