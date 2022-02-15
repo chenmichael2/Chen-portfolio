@@ -18,7 +18,23 @@ class Resume extends Component {
                             </div>
                             <div className="skills-section">
                                 <h1 className="left-heading">Skills</h1>
-                                <p></p>
+                                <div className="skills-container">
+                                    <ul>
+                                        <li>HTML</li>
+                                        <li>CSS</li>
+                                        <li>Javascript</li>
+                                        <li>Github</li>
+                                        <li>Node.js</li>
+                                        <li>Python</li>
+                                    </ul>
+                                    <ul>
+                                        <li>Express</li>
+                                        <li>REACT</li>
+                                        <li>REST API</li>
+                                        <li>PostgreSQL</li>
+                                        <li>MongoDB</li>
+                                    </ul>
+                                </div>
                             </div>
                         </div>
                     </div>
