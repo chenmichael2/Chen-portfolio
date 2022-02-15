@@ -40,11 +40,11 @@ class Resume extends Component {
                     </div>
                     <div className="resume-right">
                         <div className="right-resume-section">
-                            <div>
+                            <div className="professional-career">
 
                             </div>
                             <div>
-                                
+
                             </div>
                         </div>
                     </div>
