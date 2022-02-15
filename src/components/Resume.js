@@ -43,7 +43,7 @@ class Resume extends Component {
                             <div className="professional-career">
 
                             </div>
-                            <div>
+                            <div className="academic-background">
 
                             </div>
                         </div>
