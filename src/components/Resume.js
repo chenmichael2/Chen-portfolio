@@ -23,10 +23,10 @@ const career = [
 
 const academic = [
     {
-        title: '',
-        degree: '',
-        date: '',
-        description: [],
+        title: 'General Assembly Software Engineering Immersive',
+        degree: 'Certificate of Completion, Software Engineering',
+        date: 'Oct 2021 - Jan 2022',
+        description: ['Topics covered include front-end web development, full-stack development, and front-end framework.'],
     },
     {
         title: '',
