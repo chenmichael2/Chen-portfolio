@@ -14,10 +14,10 @@ const career = [
         description: ['Provide and lead maintenance actions on arresting gear, lighting, and airfield operations.', 'Billets assigned include acting non-commissioned officer for foreign object debris, corrosion control prevention, and training and readiness section officer.', 'Personal awards include National Defense Service Medal (2019) and Meritorious Mast (2021).'],
     },
     {
-        title: '',
-        role: '',
-        date: '',
-        description: [''],
+        title: 'PRN Ambulance',
+        role: 'Emergency Medical Technician',
+        date: 'Sep 2018 - Dec 2018',
+        description: ['Interfacility Transport EMT that transferred patients from hospital to hospital and worked well with a team of healthcare providers.', 'Provided care and services to patients and provided proper documentation for each call given.'],
     },
 ]
 
