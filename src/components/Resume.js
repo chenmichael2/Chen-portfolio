@@ -45,7 +45,7 @@ const academic = [
 class Resume extends Component {
     displayCareer() {
         const display = career.map((c, idx) => {
-            return <Career />
+            return <Career key={idx} title={c.title} role={c.role} date={c.date} description={c.description} />
         });
         return display;
     }
