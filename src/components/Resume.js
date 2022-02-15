@@ -21,6 +21,27 @@ const career = [
     },
 ]
 
+const academic = [
+    {
+        title: '',
+        degree: '',
+        date: '',
+        description: [],
+    },
+    {
+        title: '',
+        degree: '',
+        date: '',
+        description: [],
+    },
+    {
+        title: '',
+        degree: '',
+        date: '',
+        description: [],
+    },
+]
+
 class Resume extends Component {
     
 
