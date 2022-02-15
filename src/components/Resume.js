@@ -50,6 +50,13 @@ class Resume extends Component {
         return display;
     }
 
+    displayAcademic() {
+        const display = academic.map((c, idx) => {
+            return <Academic key={idx} title={c.title} degree={c.degree} date={c.date} description={c.description} />
+        });
+        return display;
+    }
+
     render() {
         return (
             <section className="resume-start-section is-fullheight hero" id="resume">
