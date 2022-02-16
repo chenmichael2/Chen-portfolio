@@ -438,6 +438,7 @@ figure img {
   font-size: 17px;
   color: white;
   font-family: "Open Sans Condensed", sans-serif;
+  margin-right: 1rem;
 }
 
 @media (prefers-reduced-motion: no-preference) {
