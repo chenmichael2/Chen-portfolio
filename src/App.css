@@ -413,7 +413,19 @@ figure img {
 .contact-section {
   height: 52px;
   background: hsl(217, 71%, 53%);
-  
+  text-align: left;
+  display: flex;
+  justify-content: space-between;
+}
+
+.contact-icon {
+  color: white;
+  margin: 10px;
+  font-size: 32px;
+}
+
+.contact-icon:hover {
+  color: rgb(108, 169, 248);
 }
 
 
