@@ -9,7 +9,7 @@ class Contact extends Component {
             <div className="contact-section" id="contact">
                 <div>
                     <a href="https://github.com/chenmichael2"><i className="bi-github contact-icon"></i></a>
-                    <a href=""><i className="bi-linkedin contact-icon"></i></a>
+                    <a href="https://www.linkedin.com/in/chenmichael2/"><i className="bi-linkedin contact-icon"></i></a>
                 </div>
                     <div className="contact-me-text">Contact Me!</div>
                 <div className="contact-me">
