@@ -11,8 +11,12 @@ class Contact extends Component {
                     <a><i className="bi-github contact-icon"></i></a>
                     <a><i className="bi-linkedin contact-icon"></i></a>
                 </div>
+                    <div className="contact-me-text">Contact Me!</div>
                 <div className="contact-me">
-                    <h1 className="contact-me-text">Contact Me!</h1>
+                    <div className="contact-container">
+                        <div className='email'>Email: chenmichael2012@gmail.com</div>
+                        <div className='phone'>Phone: 310-961-7740</div>
+                    </div>
                 </div>
             </div>
         )

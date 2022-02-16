@@ -430,8 +430,13 @@ figure img {
 
 .contact-me-text {
   font-family: 'Bebas Neue', cursive;
-  margin: 12px;
   color: white;
+}
+
+.contact-container {
+  font-size: 12px;
+  color: white;
+  margin-top: 7px;
 }
 
 @media (prefers-reduced-motion: no-preference) {
