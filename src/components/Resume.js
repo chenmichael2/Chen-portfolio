@@ -96,15 +96,11 @@ class Resume extends Component {
                             </div>
                         </div>
                     </div>
-                    <div className="resume-right">
-                        <div className="right-resume-section">
-                            <div className="professional-career">
-
-                            </div>
-                            <div className="academic-background">
-
-                            </div>
-                        </div>
+                    <div className="professional-career right-resume-section">
+                        {this.displayCareer()}
+                    </div>
+                    <div className="academic-background right-resume-section">
+                        {this.displayAcademic()}
                     </div>
                 </div>
                 <a className="resume-download" href="Michael Chen Resume.pdf" target="_blank">Hello</a>
