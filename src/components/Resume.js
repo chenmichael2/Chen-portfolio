@@ -97,9 +97,11 @@ class Resume extends Component {
                         </div>
                     </div>
                     <div className="professional-career right-resume-section">
+                        <h1 className="right-heading">Professional Career</h1>
                         {this.displayCareer()}
                     </div>
                     <div className="academic-background right-resume-section">
+                        <h1 className="right-heading">Academic Background</h1>
                         {this.displayAcademic()}
                     </div>
                 </div>
