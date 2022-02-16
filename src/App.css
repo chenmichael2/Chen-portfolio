@@ -274,6 +274,7 @@ figure img {
 .resume-container {
   display: flex;
   flex-wrap: wrap;
+  justify-content: center;
 }
 
 .top-box-styling {
@@ -346,17 +347,49 @@ figure img {
   10px 10px 15px rgba(0,0,0,0.5);
   border: 1px solid #ececec;
   outline: none;
+  height: 100%;
   border-radius: 10px;
-  margin-top: 168px;
+  margin-top: 1rem;
   margin-left: 1rem;
-  max-width: 33.33%;
+  width: 35%;
+  justify-content: center;
+  max-height: 100%;
+  min-width: 385px;
+  flex-shrink: 0;
 }
 
 .right-heading {
   font-family: 'Bebas Neue', cursive;
+  font-size: 30px;
+  color: #179BA5;
 }
 
+.professional-career {
+  text-align: left;
+  padding: 1rem;
+}
 
+.academic-background {
+  text-align: left;
+  padding: 1rem;
+}
+
+.job-first {
+  font-family: "Open Sans", sans-serif;
+  font-weight: bold;
+  font-size: 25px;
+}
+
+.job-second {
+  font-family: "Open Sans", sans-serif;
+  font-style: italic;
+  font-size: 20px;
+}
+
+.job-description {
+  font-family: "Open Sans Condensed", sans-serif;
+  font-size: 16px;
+}
 
 .resume-header {
   color: black;
