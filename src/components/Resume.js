@@ -93,6 +93,8 @@ class Resume extends Component {
                                         <li>MongoDB</li>
                                     </ul>
                                 </div>
+                                
+                                    <a className="button resume-download" href="Michael Chen Resume.pdf" target="_blank">Download Resume</a>
                             </div>
                         </div>
                     </div>
@@ -105,7 +107,7 @@ class Resume extends Component {
                         {this.displayAcademic()}
                     </div>
                 </div>
-                <a className="resume-download" href="Michael Chen Resume.pdf" target="_blank">Hello</a>
+
             </section>
         )
     }
