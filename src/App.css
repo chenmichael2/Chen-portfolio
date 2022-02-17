@@ -54,6 +54,7 @@ section {
   min-height: 100%;
   width: 100vw;
   background: url('../public/IMG_6405.jpg');
+  background-size: cover;
 }
 
 .main-text-section {
@@ -72,7 +73,7 @@ section {
   height: 100%;
   width: 100%;
   opacity: 0.7;
-  object-fit: fill;
+  object-fit: cover;
 }
 
 .main-name {
@@ -106,7 +107,8 @@ section {
 .main-text-section {
   margin-left: 2rem;
   max-width: 70%;
-  align-self: center;
+  align-self: flex-start;
+  padding-top: 3rem;
   text-align: left;
 }
 
