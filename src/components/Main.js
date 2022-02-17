@@ -4,7 +4,7 @@ class Main extends Component {
     render() {
         return (
             <section className="main-start-section hero is-fullheight is-fullheight-with-navbar" id="main">
-                <img className="main-photo" src='IMG_6405.jpg' alt="Michael Chen" />
+                {/* <img className="main-photo" src='IMG_6405.jpg' alt="Michael Chen" /> */}
                 <div className="main-text-container">
                     <div className="main-text-section">
                         <div className="main-name">

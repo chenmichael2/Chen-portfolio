@@ -49,11 +49,11 @@ section {
   color: white;
 }
 
-
 .main-start-section {
   height: 100%;
   min-height: 100%;
   width: 100vw;
+  background: url('../public/IMG_6405.jpg');
 }
 
 
@@ -65,7 +65,7 @@ section {
 }
 
 .main-photo {
-  display: absolute;
+  display: fixed;
   min-height: auto;
   min-width: 1600px;
   max-height:100%;
@@ -73,7 +73,7 @@ section {
   height: 100%;
   width: 100%;
   opacity: 0.7;
-  object-fit: contain;
+  object-fit: fill;
 }
 
 .main-name {
