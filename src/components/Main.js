@@ -18,5 +18,5 @@ class Main extends Component {
         )
     }
 }
-// main-start-section full-height
+
 export default Main;
