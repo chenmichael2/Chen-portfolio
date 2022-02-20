@@ -18,7 +18,7 @@ const career = [
     {
         title: 'PRN Ambulance',
         role: 'Emergency Medical Technician',
-        date: 'Sep 2018 - Dec 2018',
+        date: 'Sep 2017 - Dec 2017',
         description: ['Interfacility Transport EMT that transferred patients from hospital to hospital and worked well with a team of healthcare providers.', 'Provided care and services to patients and provided proper documentation for each call given.'],
     },
 ]
