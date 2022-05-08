@@ -9,7 +9,7 @@ class NavBar extends Component {
                     <div className="navbar-brand">
                         <div className="brand-name">
                                 <a className="navbar-item" href="#main">
-                                    <span className="brand-name">Michael Chen</span>
+                                    <img className="nav-icon" src="frame-1.ico" /><span className="brand-name">Michael Chen</span>
                                 </a>
                         </div>
                         <div className="navbar-burger burger" data-target="navbarExampleTransparentExample">
